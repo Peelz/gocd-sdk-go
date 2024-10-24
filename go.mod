@@ -1,4 +1,4 @@
-module github.com/nikhilsbhat/gocd-sdk-go
+module github.com/peelz/gocd-sdk-go
 
 go 1.19
 

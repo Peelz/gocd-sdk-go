@@ -1,9 +1,9 @@
 # GoCD Golang SDK
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/nikhilsbhat/gocd-sdk-go)](https://goreportcard.com/report/github.com/nikhilsbhat/gocd-sdk-go)
-[![shields](https://img.shields.io/badge/license-MIT-blue)](https://github.com/nikhilsbhat/gocd-sdk-go/blob/master/LICENSE)
-[![shields](https://godoc.org/github.com/nikhilsbhat/gocd-sdk-go?status.svg)](https://godoc.org/github.com/nikhilsbhat/gocd-sdk-go)
-[![shields](https://img.shields.io/github/v/tag/nikhilsbhat/gocd-sdk-go.svg)](https://github.com/nikhilsbhat/gocd-sdk-go/tags)
+[![Go Report Card](https://goreportcard.com/badge/github.com/peelz/gocd-sdk-go)](https://goreportcard.com/report/github.com/peelz/gocd-sdk-go)
+[![shields](https://img.shields.io/badge/license-MIT-blue)](https://github.com/peelz/gocd-sdk-go/blob/master/LICENSE)
+[![shields](https://godoc.org/github.com/peelz/gocd-sdk-go?status.svg)](https://godoc.org/github.com/peelz/gocd-sdk-go)
+[![shields](https://img.shields.io/github/v/tag/nikhilsbhat/gocd-sdk-go.svg)](https://github.com/peelz/gocd-sdk-go/tags)
 
 Golang client library for [GoCD API](https://api.gocd.org/current/) (Supports Most of the APIs).
 
@@ -19,13 +19,13 @@ This could include checking the health of all agents connected to GoCD or status
 Get the latest version of GoCD sdk using `go get` command. Example:
 
 ```shell
-go get github.com/nikhilsbhat/gocd-sdk-go@latest
+go get github.com/peelz/gocd-sdk-go@latest
 ```
 
 Get specific version of the same. Example:
 
 ```shell
-go get github.com/nikhilsbhat/gocd-sdk-go@v0.0.2
+go get github.com/peelz/gocd-sdk-go@v0.0.2
 ```
 
 ## Usage
@@ -37,7 +37,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/nikhilsbhat/gocd-sdk-go"
+	"github.com/peelz/gocd-sdk-go"
 )
 
 func main() {
@@ -50,7 +50,7 @@ func main() {
 }
 ```
 
-More examples can be found [here](https://github.com/nikhilsbhat/gocd-sdk-go/tree/master/examples).
+More examples can be found [here](https://github.com/peelz/gocd-sdk-go/tree/master/examples).
 
 ## Supported APIs
 

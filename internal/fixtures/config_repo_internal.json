@@ -25,7 +25,7 @@
           "attributes": {
             "name": null,
             "auto_update": true,
-            "url": "https://github.com/nikhilsbhat/gocd-sdk-go.git",
+            "url": "https://github.com/peelz/gocd-sdk-go.git",
             "branch": "master"
           }
         },
