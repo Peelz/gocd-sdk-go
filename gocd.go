@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/go-resty/resty/v2"
-	goCdLogger "github.com/nikhilsbhat/gocd-sdk-go/pkg/logger"
-	"github.com/nikhilsbhat/gocd-sdk-go/pkg/plugin"
+	goCdLogger "github.com/peelz/gocd-sdk-go/pkg/logger"
+	"github.com/peelz/gocd-sdk-go/pkg/plugin"
 	log "github.com/sirupsen/logrus"
 )
 

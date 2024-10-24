@@ -5,8 +5,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/nikhilsbhat/gocd-sdk-go"
-	"github.com/nikhilsbhat/gocd-sdk-go/pkg/plugin"
+	"github.com/peelz/gocd-sdk-go"
+	"github.com/peelz/gocd-sdk-go/pkg/plugin"
 )
 
 func main() {

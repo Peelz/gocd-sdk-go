@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/nikhilsbhat/gocd-sdk-go"
+	"github.com/peelz/gocd-sdk-go"
 )
 
 func main() {

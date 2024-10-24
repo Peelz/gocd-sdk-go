@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/jinzhu/copier"
-	"github.com/nikhilsbhat/gocd-sdk-go/pkg/errors"
+	"github.com/peelz/gocd-sdk-go/pkg/errors"
 )
 
 // GetServerHealthMessages implements method that fetches the details of all warning and errors.

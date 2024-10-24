@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/jinzhu/copier"
-	"github.com/nikhilsbhat/gocd-sdk-go/pkg/errors"
+	"github.com/peelz/gocd-sdk-go/pkg/errors"
 )
 
 func (conf *client) EncryptText(value string) (Encrypted, error) {

@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/nikhilsbhat/gocd-sdk-go/pkg/plugin"
+	"github.com/peelz/gocd-sdk-go/pkg/plugin"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"
 )

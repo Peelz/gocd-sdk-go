@@ -3,7 +3,7 @@ package logger_test
 import (
 	"testing"
 
-	"github.com/nikhilsbhat/gocd-sdk-go/pkg/logger"
+	"github.com/peelz/gocd-sdk-go/pkg/logger"
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 )

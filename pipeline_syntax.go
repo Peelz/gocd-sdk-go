@@ -3,7 +3,7 @@ package gocd
 import (
 	"strings"
 
-	"github.com/nikhilsbhat/gocd-sdk-go/pkg/plugin"
+	"github.com/peelz/gocd-sdk-go/pkg/plugin"
 )
 
 func (conf *client) ValidatePipelineSyntax(pluginCfg plugin.Plugin, pipelines []string, fetchVersionFromServer bool) (bool, error) {

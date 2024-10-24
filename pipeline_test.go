@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nikhilsbhat/gocd-sdk-go"
+	"github.com/peelz/gocd-sdk-go"
 	"github.com/stretchr/testify/assert"
 )
 

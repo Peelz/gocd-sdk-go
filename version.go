@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/jinzhu/copier"
-	"github.com/nikhilsbhat/gocd-sdk-go/pkg/errors"
+	"github.com/peelz/gocd-sdk-go/pkg/errors"
 )
 
 // GetVersionInfo fetches version information of the GoCD to which it is connected to.

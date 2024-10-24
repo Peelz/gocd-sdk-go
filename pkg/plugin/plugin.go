@@ -12,8 +12,8 @@ import (
 	"strings"
 
 	"github.com/go-resty/resty/v2"
-	"github.com/nikhilsbhat/gocd-sdk-go/pkg/errors"
-	goCdLogger "github.com/nikhilsbhat/gocd-sdk-go/pkg/logger"
+	"github.com/peelz/gocd-sdk-go/pkg/errors"
+	goCdLogger "github.com/peelz/gocd-sdk-go/pkg/logger"
 	log "github.com/sirupsen/logrus"
 )
 

@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/nikhilsbhat/gocd-sdk-go"
+	"github.com/peelz/gocd-sdk-go"
 	"github.com/stretchr/testify/assert"
 )
 
@@ -151,7 +151,7 @@ func TestConfig_GetConfigReposInternal(t *testing.T) {
 				Material: gocd.Material{
 					Type: "git",
 					Attributes: gocd.Attribute{
-						URL:        "https://github.com/nikhilsbhat/gocd-sdk-go.git",
+						URL:        "https://github.com/peelz/gocd-sdk-go.git",
 						Branch:     "master",
 						AutoUpdate: true,
 					},

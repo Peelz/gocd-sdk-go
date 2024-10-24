@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/imdario/mergo"
-	"github.com/nikhilsbhat/gocd-sdk-go"
+	"github.com/peelz/gocd-sdk-go"
 	"github.com/stretchr/testify/assert"
 )
 

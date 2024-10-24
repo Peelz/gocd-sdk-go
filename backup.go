@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 
 	"github.com/jinzhu/copier"
-	"github.com/nikhilsbhat/gocd-sdk-go/pkg/errors"
+	"github.com/peelz/gocd-sdk-go/pkg/errors"
 )
 
 // GetBackupConfig fetches information of backup configured in GoCD server.
